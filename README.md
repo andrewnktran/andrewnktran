@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Andrew</h1>
 
-- 🔭 I’m currently looking for opportunities to start my early software engineer. Please contact me via Linkedin.
+- 🔭 I’m currently looking for opportunities to start my early software engineer. Please contact me via LinkedIn.
 - 🌱 I’m currently learning C# and .NET
 - 💬 Ask me about any tech-related stuff.
 - 😄 Pronouns: he/him/his
